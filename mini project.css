@@ -1,0 +1,63 @@
+
+#logo{
+ font-size:40px ;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ color: white;
+ display: block;
+ 
+ width: auto;
+ 
+ 
+
+}
+header{
+    background-color: rgb(126, 78, 122);
+    padding: 20px;
+}
+body{
+    text-align: center;
+    font-size: 30px;
+
+}
+ul{
+   
+padding-block: 25px;
+    list-style-type:none;
+    text-align: center;
+font-size: 40px;
+   width: 100%;
+ display: block;
+}
+#hi{
+    text-align: center;
+   float:none;
+  
+    
+}
+#h{
+    text-align: center;
+    float:none;
+   
+     
+}
+li a{
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+}
+li{
+   text-align: center;
+    display: inline;
+}
+.active{
+    background-color: rgb(143, 143, 243);
+}
+.circular{
+    
+    
+    border-top-left-radius: 50% 50%; 
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
